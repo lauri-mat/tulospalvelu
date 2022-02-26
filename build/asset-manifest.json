@@ -1,13 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.f1e8fcc9.css",
-    "main.js": "/static/js/main.cda1ec6c.js",
+    "main.css": "/static/css/main.120af55b.css",
+    "main.js": "/static/js/main.c81a1d30.js",
+    "static/media/putler.gif": "/static/media/putler.b1ccbda8cb3b67114c09.gif",
+    "static/media/gun.gif": "/static/media/gun.fab4254d873b97174da3.gif",
+    "static/media/gun2.gif": "/static/media/gun2.164a7621ba9b06c1026a.gif",
     "index.html": "/index.html",
-    "main.f1e8fcc9.css.map": "/static/css/main.f1e8fcc9.css.map",
-    "main.cda1ec6c.js.map": "/static/js/main.cda1ec6c.js.map"
+    "main.120af55b.css.map": "/static/css/main.120af55b.css.map",
+    "main.c81a1d30.js.map": "/static/js/main.c81a1d30.js.map"
   },
   "entrypoints": [
-    "static/css/main.f1e8fcc9.css",
-    "static/js/main.cda1ec6c.js"
+    "static/css/main.120af55b.css",
+    "static/js/main.c81a1d30.js"
   ]
 }
