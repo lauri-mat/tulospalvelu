@@ -1,0 +1,8 @@
+POST http://localhost:3001/api/results
+Content-Type: application/json
+
+{
+    "hometeam": "Aku Ankka",
+    "visitorteam": "Hannu Hanhi",
+    "result": "2-9"    
+}
